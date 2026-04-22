@@ -1,0 +1,19 @@
+.Dd May 1, 2026
+.Dt nanoidgen 1
+.Sh NAME
+.Nm nanoidgen
+.Nd generate a Nano ID
+.Sh SYNOPSIS
+.Nm
+.Op length
+.Sh DESCRIPTION
+.Nm
+generates a Nano ID of the default length (21), or the specified length up to
+.Dv GETENTROPY_MAX
+(256), and prints it to the standard output.
+.Sh EXIT STATUS
+.Ex -std
+.Sh SEE ALSO
+.Xr nanoid 3
+.Sh AUTHORS
+.An Luka Teras Aq Mt luka@luka.is

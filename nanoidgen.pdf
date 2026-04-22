@@ -1,0 +1,1090 @@
+%PDF-1.1
+1 0 obj
+<<
+>>
+endobj
+3 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F0
+/BaseFont /Times-Roman
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Italic
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Times-BoldItalic
+>>
+endobj
+7 0 obj
+<<
+/Length 8 0 R
+>>
+stream
+BT
+/F1 11 Tf
+68.024 702.988 Td
+(NAME) Tj
+ET
+BT
+/F1 11 Tf
+81.774 687.599 Td
+(nanoidgen) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+133.430 687.599 Td
+(-) Tj
+ET
+BT
+/F0 11 Tf
+139.843 687.599 Td
+(generate) Tj
+ET
+BT
+/F0 11 Tf
+179.850 687.599 Td
+(a) Tj
+ET
+BT
+/F0 11 Tf
+187.484 687.599 Td
+(Nano) Tj
+ET
+BT
+/F0 11 Tf
+214.060 687.599 Td
+(ID) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+68.024 656.821 Td
+(SYNOPSIS) Tj
+ET
+BT
+/F1 11 Tf
+81.774 641.432 Td
+(nanoidgen) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+133.430 641.432 Td
+([length]) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+68.024 610.654 Td
+(DESCRIPTION) Tj
+ET
+BT
+/F1 11 Tf
+81.774 595.265 Td
+(nanoidgen) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+133.430 595.265 Td
+(generates) Tj
+ET
+BT
+/F0 11 Tf
+177.716 595.265 Td
+(a) Tj
+ET
+BT
+/F0 11 Tf
+185.350 595.265 Td
+(Nano) Tj
+ET
+BT
+/F0 11 Tf
+211.926 595.265 Td
+(ID) Tj
+ET
+BT
+/F0 11 Tf
+226.281 595.265 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+238.194 595.265 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+254.386 595.265 Td
+(default) Tj
+ET
+BT
+/F0 11 Tf
+287.683 595.265 Td
+(length) Tj
+ET
+BT
+/F0 11 Tf
+317.933 595.265 Td
+(\(21\),) Tj
+ET
+BT
+/F0 11 Tf
+341.759 595.265 Td
+(or) Tj
+ET
+BT
+/F0 11 Tf
+353.672 595.265 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+369.864 595.265 Td
+(specified) Tj
+ET
+BT
+/F0 11 Tf
+412.324 595.265 Td
+(length) Tj
+ET
+BT
+/F0 11 Tf
+442.574 595.265 Td
+(up) Tj
+ET
+BT
+/F0 11 Tf
+456.324 595.265 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+81.774 579.876 Td
+(GETENTROPY_MAX) Tj
+ET
+BT
+/F0 11 Tf
+187.792 579.876 Td
+(\(256\),) Tj
+ET
+BT
+/F0 11 Tf
+217.118 579.876 Td
+(and) Tj
+ET
+BT
+/F0 11 Tf
+235.752 579.876 Td
+(prints) Tj
+ET
+BT
+/F0 11 Tf
+263.560 579.876 Td
+(it) Tj
+ET
+BT
+/F0 11 Tf
+272.426 579.876 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+283.734 579.876 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+299.926 579.876 Td
+(standard) Tj
+ET
+BT
+/F0 11 Tf
+339.944 579.876 Td
+(output.) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+68.024 549.098 Td
+(EXIT) Tj
+ET
+BT
+/F1 11 Tf
+97.669 549.098 Td
+(STATUS) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+81.774 533.709 Td
+(The) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+101.629 533.709 Td
+(nanoidgen) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+153.285 533.709 Td
+(utility) Tj
+ET
+BT
+/F0 11 Tf
+182.325 533.709 Td
+(exits) Tj
+ET
+BT
+/F0 11 Tf
+205.854 533.709 Td
+(0) Tj
+ET
+BT
+/F0 11 Tf
+214.104 533.709 Td
+(on) Tj
+ET
+BT
+/F0 11 Tf
+227.854 533.709 Td
+(success,) Tj
+ET
+BT
+/F0 11 Tf
+266.343 533.709 Td
+(and) Tj
+ET
+BT
+/F0 11 Tf
+284.977 533.709 Td
+(>0) Tj
+ET
+BT
+/F0 11 Tf
+299.431 533.709 Td
+(if) Tj
+ET
+BT
+/F0 11 Tf
+308.902 533.709 Td
+(an) Tj
+ET
+BT
+/F0 11 Tf
+322.036 533.709 Td
+(error) Tj
+ET
+BT
+/F0 11 Tf
+346.159 533.709 Td
+(occurs.) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+68.024 502.931 Td
+(SEE) Tj
+ET
+BT
+/F1 11 Tf
+91.564 502.931 Td
+(ALSO) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+81.774 487.542 Td
+(nanoid\(3\)) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+68.024 456.764 Td
+(AUTHORS) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+81.774 441.375 Td
+(Luka) Tj
+ET
+BT
+/F0 11 Tf
+107.129 441.375 Td
+(Teras) Tj
+ET
+BT
+/F0 11 Tf
+134.310 441.375 Td
+(<) Tj
+ET
+/F2 11 Tf
+BT
+/F2 11 Tf
+140.514 441.375 Td
+(luka@luka.is) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+198.605 441.375 Td
+(>) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+68.024 739.233 Td
+(nanoidgen\(1\)) Tj
+ET
+BT
+/F0 11 Tf
+245.498 739.233 Td
+(General) Tj
+ET
+BT
+/F0 11 Tf
+283.063 739.233 Td
+(Commands) Tj
+ET
+BT
+/F0 11 Tf
+335.929 739.233 Td
+(Manual) Tj
+ET
+BT
+/F0 11 Tf
+485.606 739.233 Td
+(nanoidgen\(1\)) Tj
+ET
+BT
+/F0 11 Tf
+279.554 36.245 Td
+(May) Tj
+ET
+BT
+/F0 11 Tf
+302.467 36.245 Td
+(1,) Tj
+ET
+BT
+/F0 11 Tf
+313.467 36.245 Td
+(2026) Tj
+ET
+endstream
+endobj
+8 0 obj
+3293
+endobj
+9 0 obj
+<<
+/ProcSet [/PDF /Text]
+/Font <<
+/F0 3 0 R
+/F1 4 0 R
+/F2 5 0 R
+/F3 6 0 R
+>>
+>>
+endobj
+10 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources 9 0 R
+/Contents 7 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/MediaBox [0 0 612 790]
+/Count 1
+/Kids [ 10 0 R]
+>>
+endobj
+11 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000009 00000 n 
+0000003904 00000 n 
+0000000030 00000 n 
+0000000112 00000 n 
+0000000193 00000 n 
+0000000276 00000 n 
+0000000363 00000 n 
+0000003708 00000 n 
+0000003728 00000 n 
+0000003823 00000 n 
+0000003987 00000 n 
+trailer
+<<
+/Size 12
+/Root 11 0 R
+/Info 1 0 R
+>>
+startxref
+4037
+%%EOF
+%PDF-1.1
+1 0 obj
+<<
+>>
+endobj
+3 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F0
+/BaseFont /Times-Roman
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Italic
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Times-BoldItalic
+>>
+endobj
+11 0 obj
+<<
+/Length 12 0 R
+>>
+stream
+BT
+/F1 11 Tf
+68.024 702.988 Td
+(NAME) Tj
+ET
+BT
+/F1 11 Tf
+81.774 687.599 Td
+(nanoid) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+116.930 687.599 Td
+(-) Tj
+ET
+BT
+/F0 11 Tf
+123.343 687.599 Td
+(generate) Tj
+ET
+BT
+/F0 11 Tf
+163.350 687.599 Td
+(a) Tj
+ET
+BT
+/F0 11 Tf
+170.984 687.599 Td
+(Nano) Tj
+ET
+BT
+/F0 11 Tf
+197.560 687.599 Td
+(ID) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+68.024 656.821 Td
+(SYNOPSIS) Tj
+ET
+BT
+/F1 11 Tf
+81.774 641.432 Td
+(#include) Tj
+ET
+BT
+/F1 11 Tf
+124.256 641.432 Td
+(<nanoid.h>) Tj
+ET
+/F2 11 Tf
+BT
+/F2 11 Tf
+81.774 610.654 Td
+(int) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+81.774 595.265 Td
+(nanoid) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+114.180 595.265 Td
+(\() Tj
+ET
+/F2 11 Tf
+BT
+/F2 11 Tf
+117.843 595.265 Td
+(char) Tj
+ET
+BT
+/F2 11 Tf
+140.756 595.265 Td
+(*buffer) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+172.535 595.265 Td
+(,) Tj
+ET
+/F2 11 Tf
+BT
+/F2 11 Tf
+178.035 595.265 Td
+(size_t) Tj
+ET
+BT
+/F2 11 Tf
+205.843 595.265 Td
+(length) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+233.343 595.265 Td
+(\);) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+68.024 564.487 Td
+(DESCRIPTION) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+81.774 549.098 Td
+(NANOID_LEN) Tj
+ET
+BT
+/F0 11 Tf
+154.781 549.098 Td
+(expands) Tj
+ET
+BT
+/F0 11 Tf
+193.578 549.098 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+204.886 549.098 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+221.078 549.098 Td
+(default) Tj
+ET
+BT
+/F0 11 Tf
+254.375 549.098 Td
+(Nano) Tj
+ET
+BT
+/F0 11 Tf
+280.951 549.098 Td
+(ID) Tj
+ET
+BT
+/F0 11 Tf
+295.306 549.098 Td
+(length) Tj
+ET
+BT
+/F0 11 Tf
+325.556 549.098 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+337.469 549.098 Td
+(21.) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+81.774 518.320 Td
+(nanoid) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+114.180 518.320 Td
+(\(\)) Tj
+ET
+BT
+/F0 11 Tf
+124.256 518.320 Td
+(fills) Tj
+ET
+BT
+/F0 11 Tf
+144.122 518.320 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+160.314 518.320 Td
+(buffer) Tj
+ET
+BT
+/F0 11 Tf
+189.937 518.320 Td
+(with) Tj
+ET
+BT
+/F0 11 Tf
+212.245 518.320 Td
+(a) Tj
+ET
+BT
+/F0 11 Tf
+219.879 518.320 Td
+(Nano) Tj
+ET
+BT
+/F0 11 Tf
+246.455 518.320 Td
+(ID) Tj
+ET
+BT
+/F0 11 Tf
+260.810 518.320 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+272.723 518.320 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+288.915 518.320 Td
+(specified) Tj
+ET
+BT
+/F0 11 Tf
+331.375 518.320 Td
+(length) Tj
+ET
+BT
+/F0 11 Tf
+361.625 518.320 Td
+(up) Tj
+ET
+BT
+/F0 11 Tf
+375.375 518.320 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+386.683 518.320 Td
+(GETENTROPY_MAX) Tj
+ET
+BT
+/F0 11 Tf
+492.701 518.320 Td
+(\(256\)) Tj
+ET
+BT
+/F0 11 Tf
+519.277 518.320 Td
+(and) Tj
+ET
+BT
+/F0 11 Tf
+81.774 502.931 Td
+(returns) Tj
+ET
+BT
+/F0 11 Tf
+115.071 502.931 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+131.263 502.931 Td
+(return) Tj
+ET
+BT
+/F0 11 Tf
+160.281 502.931 Td
+(value) Tj
+ET
+BT
+/F0 11 Tf
+186.857 502.931 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+198.770 502.931 Td
+(getentropy\(3\).) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+68.024 472.153 Td
+(RETURN) Tj
+ET
+BT
+/F1 11 Tf
+117.216 472.153 Td
+(VALUES) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+81.774 456.764 Td
+(Upon) Tj
+ET
+BT
+/F0 11 Tf
+108.966 456.764 Td
+(successful) Tj
+ET
+BT
+/F0 11 Tf
+156.926 456.764 Td
+(completion,) Tj
+ET
+BT
+/F0 11 Tf
+211.926 456.764 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+228.118 456.764 Td
+(value) Tj
+ET
+BT
+/F0 11 Tf
+254.694 456.764 Td
+(0) Tj
+ET
+BT
+/F0 11 Tf
+262.944 456.764 Td
+(is) Tj
+ET
+BT
+/F0 11 Tf
+273.031 456.764 Td
+(returned;) Tj
+ET
+BT
+/F0 11 Tf
+315.491 456.764 Td
+(otherwise) Tj
+ET
+BT
+/F0 11 Tf
+361.009 456.764 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+377.201 456.764 Td
+(value) Tj
+ET
+BT
+/F0 11 Tf
+403.777 456.764 Td
+(-1) Tj
+ET
+BT
+/F0 11 Tf
+415.690 456.764 Td
+(is) Tj
+ET
+BT
+/F0 11 Tf
+425.777 456.764 Td
+(returned) Tj
+ET
+BT
+/F0 11 Tf
+465.179 456.764 Td
+(and) Tj
+ET
+BT
+/F0 11 Tf
+483.813 456.764 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+500.005 456.764 Td
+(global) Tj
+ET
+BT
+/F0 11 Tf
+81.774 441.375 Td
+(variable) Tj
+ET
+/F2 11 Tf
+BT
+/F2 11 Tf
+119.955 441.375 Td
+(errno) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+147.147 441.375 Td
+(is) Tj
+ET
+BT
+/F0 11 Tf
+157.234 441.375 Td
+(set) Tj
+ET
+BT
+/F0 11 Tf
+172.205 441.375 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+183.513 441.375 Td
+(indicate) Tj
+ET
+BT
+/F0 11 Tf
+221.089 441.375 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+237.281 441.375 Td
+(error.) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+68.024 410.597 Td
+(SEE) Tj
+ET
+BT
+/F1 11 Tf
+91.564 410.597 Td
+(ALSO) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+81.774 395.208 Td
+(getentropy\(2\),) Tj
+ET
+BT
+/F0 11 Tf
+147.147 395.208 Td
+(getentropy\(3\),) Tj
+ET
+BT
+/F0 11 Tf
+212.520 395.208 Td
+(nanoidgen\(1\)) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+68.024 364.430 Td
+(AUTHORS) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+81.774 349.041 Td
+(Luka) Tj
+ET
+BT
+/F0 11 Tf
+107.129 349.041 Td
+(Teras) Tj
+ET
+BT
+/F0 11 Tf
+134.310 349.041 Td
+(<) Tj
+ET
+/F2 11 Tf
+BT
+/F2 11 Tf
+140.514 349.041 Td
+(luka@luka.is) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+198.605 349.041 Td
+(>) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+68.024 739.233 Td
+(nanoid\(3\)) Tj
+ET
+BT
+/F0 11 Tf
+249.766 739.233 Td
+(Library) Tj
+ET
+BT
+/F0 11 Tf
+285.505 739.233 Td
+(Functions) Tj
+ET
+BT
+/F0 11 Tf
+331.650 739.233 Td
+(Manual) Tj
+ET
+BT
+/F0 11 Tf
+501.490 739.233 Td
+(nanoid\(3\)) Tj
+ET
+BT
+/F0 11 Tf
+279.554 36.245 Td
+(May) Tj
+ET
+BT
+/F0 11 Tf
+302.467 36.245 Td
+(1,) Tj
+ET
+BT
+/F0 11 Tf
+313.467 36.245 Td
+(2026) Tj
+ET
+endstream
+endobj
+12 0 obj
+4858
+endobj
+13 0 obj
+<<
+/ProcSet [/PDF /Text]
+/Font <<
+/F0 3 0 R
+/F1 4 0 R
+/F2 5 0 R
+/F3 6 0 R
+>>
+>>
+endobj
+14 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources 13 0 R
+/Contents 11 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/MediaBox [0 0 612 790]
+/Count 2
+/Kids [ 10 0 R 14 0 R]
+>>
+endobj
+15 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000004365 00000 n 
+0000009831 00000 n 
+0000004386 00000 n 
+0000004468 00000 n 
+0000004549 00000 n 
+0000004632 00000 n 
+0000000363 00000 n 
+0000003708 00000 n 
+0000003728 00000 n 
+0000003823 00000 n 
+0000004719 00000 n 
+0000009631 00000 n 
+0000009652 00000 n 
+0000009748 00000 n 
+0000009921 00000 n 
+trailer
+<<
+/Size 16
+/Root 15 0 R
+/Info 1 0 R
+>>
+startxref
+9971
+%%EOF

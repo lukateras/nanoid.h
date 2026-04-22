@@ -1,0 +1,26 @@
+.Dd May 1, 2026
+.Dt nanoid 3
+.Sh NAME
+.Nm nanoid
+.Nd generate a Nano ID
+.Sh SYNOPSIS
+.In nanoid.h
+.Ft "int"
+.Fn nanoid "char *buffer" "size_t length"
+.Sh DESCRIPTION
+.Dv NANOID_LEN
+expands to the default Nano ID length of 21.
+
+.Fn nanoid
+fills the buffer with a Nano ID of the specified length up to
+.Dv GETENTROPY_MAX
+(256) and returns the return value of
+.Xr getentropy 3 .
+.Sh RETURN VALUES
+.Rv -std
+.Sh SEE ALSO
+.Xr getentropy 2 ,
+.Xr getentropy 3 ,
+.Xr nanoidgen 1
+.Sh AUTHORS
+.An Luka Teras Aq Mt luka@luka.is
